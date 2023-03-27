@@ -215,8 +215,7 @@ insert into person01 (id, first_name, last_name, email, gender, date_of_birth, c
 insert into person01 (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (206, 'Olin', 'Boig', 'oboig5p@usda.gov', 'Agender', '1/31/1964', 'Indonesia');
 insert into person01 (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (207, 'Artair', 'Tester', null, 'Male', '12/27/2002', 'Sweden');
 insert into person01 (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (208, 'Donnie', 'Klicher', 'dklicher5r@uiuc.edu', 'Male', '4/21/1966', 'Czech Republic');
-insert into person01 (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (209, 'Ralph', 'Monument', 'rmonument5s@livejournal.com', 'Male', '12/20/2000', 'Philippines');
-insert into person01 (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (210, 'Vaughan', 'Dunbleton', 'vdunbleton5t@wp.com', 'Male', '10/8/1977', 'Venezuela');
+insert into person01 (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (209, 'Ralph', 'Monument', 'rmonument5s@livejournal.com', 'Male', '12/20/2000', 'Philippines');insert into person01 (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (210, 'Vaughan', 'Dunbleton', 'vdunbleton5t@wp.com', 'Male', '10/8/1977', 'Venezuela');
 insert into person01 (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (211, 'Kelwin', 'Emett', 'kemett5u@ox.ac.uk', 'Male', '10/9/1995', 'Ukraine');
 insert into person01 (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (212, 'Nerissa', 'Orys', 'norys5v@oracle.com', 'Female', '2/5/1994', 'Russia');
 insert into person01 (id, first_name, last_name, email, gender, date_of_birth, country_of_birth) values (213, 'Antonella', 'Killby', null, 'Female', '2/21/2004', 'Ivory Coast');
