@@ -1,3 +1,3 @@
 # sql-postgres
 
-Relational Database and SQL
+## Relational Database and SQL
