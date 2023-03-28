@@ -2,7 +2,7 @@ create table car01 (
 	id BIGSERIAL NOT NULL PRIMARY KEY,
 	make VARCHAR(150) NOT NULL,
 	model VARCHAR(150) NOT NULL,
-	price NUMERIC(19, 2)
+	price NUMERIC(19, 2) NOT NULL
 );
 insert into car01 (id, make, model, price) values (1, 'Dodge', 'Ram 1500', 6228175);
 insert into car01 (id, make, model, price) values (2, 'Nissan', 'Versa', 3185266);
